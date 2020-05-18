@@ -52,7 +52,7 @@ $(document).ready(function() {
 
   }
 
-  $('#myModal').modal(options);
+  $('#exampleModalLong').modal(options);
 });
 
 $(document).on('click', '.navbar-toggler', function() {
